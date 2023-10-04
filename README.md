@@ -1,4 +1,6 @@
-# api-node-pratica
+# Gesid.tech - Onboard de novos desenvoledores
+
+![Gesid.tech]( https://www.google.com/url?sa=i&url=https%3A%2F%2Faudcontcontabilidade.com.br%2Fblog%2Fcomo-abrir-uma-empresa-de-software%2F&psig=AOvVaw0p058BnhpLusaAVmPpAnFB&ust=1696517797024000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjoq7fT3IEDFQAAAAAdAAAAABAF )
 
 # Caracterização participante
 https://docs.google.com/forms/d/1lvtiSK7FLfPLCLNqczukEOJ2n1NmKas9uhxGJmM1P08/edit
