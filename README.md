@@ -11,3 +11,6 @@ https://docs.google.com/forms/d/15nk6m9V9FGW5zjObPC0qv03lXXeoDeVUc8Faw1-yQIc/edi
 
 # Notion
 https://alkaline-receipt-a56.notion.site/C-digos-necess-rios-para-fluxo-de-CI-CD-896088a5c3724d7e98cf0ca814ec67bb?pvs=4
+
+# Mocha Teste
+https://www.digitalocean.com/community/tutorials/test-a-node-restful-api-with-mocha-and-chai#introduction
